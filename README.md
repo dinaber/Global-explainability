@@ -1,2 +1,2 @@
 # Global-explainability
-The full code used in the global explainability blog post
+The full code used for the global explainability blog post
